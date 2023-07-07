@@ -1,0 +1,21 @@
+nav {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+.navUlItems {
+    list-style: none;
+    display: flex;
+    padding: 0;
+}
+
+.navLiItems {
+    margin: 0 10px;
+    color: white;
+}
+
+/* 
+.navLiCart {
+    background-color: red;
+} */

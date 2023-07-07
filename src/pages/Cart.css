@@ -1,0 +1,10 @@
+.cartBtn {
+    background-color: blue;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 12px 20px;
+    border-radius: 25%;
+
+}
